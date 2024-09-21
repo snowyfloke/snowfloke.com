@@ -5,8 +5,11 @@
 
 Regrinhas pra mexer no código!
 	1- Inclua uma breve explicação do seu código caso seja algo que eu não fiz em nenhum outro lugar do site, assim irá ajudar devs inexperientes e eu :D
+ 
 	2- Deem sugestões de quaisquer coisas que vocês queiram no site, seja features ou simples imagens ˆˆ
+ 
 	3- Não inclua nada que contenha NSFW e etc, este site vai ser usado por pessoas de todas as idades :D
+ 
 	4- Este site NÃO é feito com intuito de ganhar dinheiro, não incluam nenhuma monetizazão nele >:(
 
 ## Não criem cópias deste site, mas use-o como fonte de inspiração para seus próprios sites!!!
