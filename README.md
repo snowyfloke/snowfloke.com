@@ -5,7 +5,8 @@
 
 Regrinhas pra mexer no código!
 
-	1- Inclua uma breve explicação do seu código caso seja algo que eu não fiz em nenhum outro lugar do site, assim irá ajudar devs inexperientes e eu :D
+	1- Inclua uma breve explicação do seu código caso seja algo que eu não fiz em nenhum outro lugar do site, 
+ 	assim irá ajudar devs inexperientes e eu :D
  
 	2- Deem sugestões de quaisquer coisas que vocês queiram no site, seja features ou simples imagens ˆˆ
  
