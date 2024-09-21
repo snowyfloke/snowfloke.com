@@ -1,0 +1,78 @@
+* {
+    margin: 0;
+    box-sizing: content-box;
+}
+
+img {
+    border-radius: 20px;
+}
+
+body {
+    background: #cefdfa;
+}
+
+header {
+    background: #c1fbf5;
+    text-align: center;
+    color:#0b1e1b;
+    font-size: 2rem;
+}
+
+header h1 {
+    font-size: 3rem;
+}
+
+article {
+    padding-bottom: 20px;
+}
+
+article h2 {
+    font-size: 2em;
+    padding-left: 2em;
+}
+
+ol {
+    column-count: 6;
+    padding-top: 20px;
+}
+
+.bsky {
+    color: rgb(0 122 255);
+}
+
+.youtube {
+    color: red;
+}
+
+.twitch {
+    color: darkorchid;
+}
+
+.instagram {
+    color: orange;
+}
+
+.reddit {
+    color:orangered
+}
+
+.github {
+    color: #000
+}
+
+.img {
+    padding-left: 32rem;
+    width:100%; height: 100%;
+}
+
+footer {
+    background: #0b1e1b;
+    text-align: center;
+    color: #c1fbf5;
+    font-size: 1.5rem;
+    padding: 40px;
+}
+
+footer a {
+    color:aqua
+}
