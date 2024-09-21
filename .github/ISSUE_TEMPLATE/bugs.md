@@ -3,7 +3,7 @@ name: Bugs
 about: Mostre pra gente um bug que você achou
 title: "[BUG]"
 labels: bug
-assignees: snowyfloke
+assignees: 
 
 ---
 
