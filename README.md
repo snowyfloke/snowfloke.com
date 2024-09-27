@@ -4,8 +4,9 @@
 ## Aceito ajudas, porém quero usar este site como forma de aprender HTML e CSS, portanto não quero que ninguém faça coisas muito complexas. Mas se forem fazer, incluam um tutorial ou uma explicação junta!
 
 ## Explicação dos aquivos e pastas:
-> A pasta "snowfloke.com" contém todos os aquivos necesários para rodar o site, é ela que você deve baixar e colocar no VSCode (ou outro editor) para mexer no site. O resto são coisas do repositório como templates, o README e etc.
-> Já a pasta "img" contém todas as imagens usadas no site, menos o ícone do site em si, este último é o "Snowy_Icon.jpeg"
+> O arquivo snowfloke.com.zip é o arquivo principal, e é ele que você deve baixar caso queira baixar tudo de uma só vez.
+> A pasta "snowfloke.com" contém todos os aquivos necesários para rodar o site, nela você pode baixar os arquivos separadamente para mexer no site.
+> Já a pasta "img" contém todas as imagens usadas no site, menos o ícone do site em si, ele está incluído na pasta snowfloke.com
 
 # Regrinhas pra mexer no código!
 
